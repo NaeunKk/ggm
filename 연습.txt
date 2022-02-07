@@ -1,0 +1,11 @@
+dldidldidh
+
+git checkout -b 브랜치명 : 브랜치 생성
+
+#include <stdio.h>
+int main()
+{
+    return 0;
+}
+
+aslkjd;
